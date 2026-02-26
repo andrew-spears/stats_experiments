@@ -1,0 +1,1 @@
+Experiments of mathematical statistical phenomena that are generally interesting or counterinuitive. Attempt to visualize the results in simple, concrete examples using numpy and matplotlib. Many results from class work at MIT (particularly instructed by prof. Stephen Bates).
